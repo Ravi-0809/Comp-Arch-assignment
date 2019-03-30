@@ -3,7 +3,7 @@ This repository contains the code for the assignments of the Computer Architectu
 * Assignment 1 - Single cycle implementation of MIPS like processor. Refer to PDF in folder for full details.
 * Assignment 2 - Pipelined implementation of 4 stage MIPS like processor. Refer to PDF in folder for full details.
 
-##Progress :
+## Progress :
 * Assignment 1 - Complete
 * Assignment 2 - In progress
 
