@@ -1,0 +1,12 @@
+test
+comp_arch_assignment_1/*
+!ALU_main.v
+!control_module.v
+!instr_fetch.v
+!instr_memory.v
+!main.v
+!main_tb.v
+!mux_1.v
+!mux_2.v
+!mux_3.v
+!register_file.v
